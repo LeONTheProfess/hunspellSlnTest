@@ -169,6 +169,12 @@
     <ClInclude Include="hunspell\utf_info.hxx" />
     <ClInclude Include="hunspell\w_char.hxx" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="en_EN.aff" />
+    <None Include="en_EN.dic" />
+    <None Include="ru_RU.aff" />
+    <None Include="ru_RU.dic" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

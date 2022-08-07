@@ -105,4 +105,18 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="en_EN.aff">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="en_EN.dic">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="ru_RU.aff">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="ru_RU.dic">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
 </Project>
